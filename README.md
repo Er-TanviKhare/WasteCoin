@@ -84,35 +84,36 @@ This approach helps:
 
 ## 📸 Screenshots
 
-### 🌀 Splash Screen  
-![Splash](screenshots/splash.jpg)
+### 🌀 Splash Screen
+<img src="screenshots/splash.jpg" alt="Splash Screen" width="300"/>
 
-### 🔐 Login  
-![Login](screenshots/login.jpg)
+### 🔐 Login
+<img src="screenshots/login.jpg" alt="Login Screen" width="300"/>
 
-### 📝 Register  
-![Register](screenshots/register.jpg)
+### 📝 Register
+<img src="screenshots/register.jpg" alt="Register Screen" width="300"/>
 
-### 🏠 Dashboard  
-![Dashboard](screenshots/dashboard.jpg)
+### 🏠 Dashboard
+<img src="screenshots/dashboard.jpg" alt="Dashboard" width="300"/>
 
-### 📷 Scan QR  
-![Scan QR](screenshots/scanqr.jpg)
+### 📷 Scan QR
+<img src="screenshots/scanqr.jpg" alt="Scan QR" width="300"/>
 
-### 💼 Wallet  
-![Wallet](screenshots/wallet.jpg)
+### 💼 Wallet
+<img src="screenshots/wallet.jpg" alt="Wallet" width="300"/>
 
-### 📜 History  
-![History](screenshots/history.jpg)
+### 📜 History
+<img src="screenshots/history.jpg" alt="History" width="300"/>
 
-### 🎁 Redeem Rewards  
-![Redeem](screenshots/redeem.jpg)
+### 🎁 Redeem Rewards
+<img src="screenshots/coupon.jpg" alt="Redeem Rewards" width="300"/>
 
-### ⚙️ Settings  
-![Settings](screenshots/settings.jpg)
+### ⚙️ Settings
+<img src="screenshots/settings.jpg" alt="Settings" width="300"/>
 
 ### 🌗 Light / Dark Theme
-![Theme](screenshots/darklighttheme.jpg)
+<img src="screenshots/darklighttheme.jpg" alt="Theme" width="300"/>
+
 
 
 
