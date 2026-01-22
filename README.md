@@ -22,6 +22,7 @@ This approach helps:
 ### 🏠 Dashboard
 - Personalized user greeting
 - Live wallet balance
+- Recent activity
 - Environmental impact metrics:
   - Total waste recycled (kg)
   - CO₂ saved
@@ -44,9 +45,10 @@ This approach helps:
 - Waste contribution and CO₂ savings summary
 
 ### ⚙️ Settings
-- Edit user profile (name only)
+- Edit user profile 
 - Theme support (Light / Dark)
-- Secure logout with confirmation dialog
+- About Us
+- Secure logout
 
 ---
 
