@@ -75,21 +75,10 @@ This approach helps:
 
 ## 📦 Data Model Overview
 
-- **Users**
-  - Wallet balance
-  - Total waste recycled
-  - Transaction history
-  - Scanned QR records
-
-- **Coupons**
-  - Required coins
-  - Brand reference
-  - Validity
-
-- **Brands**
-  - Name
-  - Logo
-  - Description
+- **Users** — Wallet balance, waste stats, scan history  
+- **Transactions** — QR scans, waste type, weight, coins earned  
+- **Coupons** — Reward value, brand, validity  
+- **Brands** — Partner details for rewards
 
 ---
 
