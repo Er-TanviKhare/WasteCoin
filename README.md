@@ -85,22 +85,36 @@ This approach helps:
 ## 📸 Screenshots
 
 ### 🌀 Splash Screen  
-![Splash Screen](screenshots/Splash.jpeg)
+![Splash](screenshots/splash.jpg)
+
+### 🔐 Login  
+![Login](screenshots/login.jpg)
+
+### 📝 Register  
+![Register](screenshots/register.jpg)
 
 ### 🏠 Dashboard  
-![Dashboard](screenshots/Dashboard.jpeg)
+![Dashboard](screenshots/dashboard.jpg)
 
 ### 📷 Scan QR  
-![Scan QR](screenshots/ScanQR.jpeg)
+![Scan QR](screenshots/scanqr.jpg)
 
 ### 💼 Wallet  
-![Wallet](screenshots/Wallet.jpeg)
+![Wallet](screenshots/wallet.jpg)
+
+### 📜 History  
+![History](screenshots/history.jpg)
 
 ### 🎁 Redeem Rewards  
-![Redeem](screenshots/Redeem.jpeg)
+![Redeem](screenshots/redeem.jpg)
 
 ### ⚙️ Settings  
-![Settings](screenshots/Settings.jpeg)
+![Settings](screenshots/settings.jpg)
+
+### 🌗 Light / Dark Theme
+![Theme](screenshots/darklighttheme.jpg)
+
+
 
 ---
 
